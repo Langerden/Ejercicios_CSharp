@@ -1,0 +1,2 @@
+F:\Visual Code Projects\Ejercicio5\Ejercicio5\obj\Debug\Clase_3.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio5\Ejercicio5\obj\Debug\Clase_3.csproj.CoreCompileInputs.cache

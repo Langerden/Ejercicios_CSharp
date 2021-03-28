@@ -1,0 +1,5 @@
+F:\Visual Code Projects\Ejercicio5\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Visual Code Projects\Ejercicio5\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Visual Code Projects\Ejercicio5\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio5\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Visual Code Projects\Ejercicio5\Biblioteca\obj\Debug\Biblioteca.pdb
