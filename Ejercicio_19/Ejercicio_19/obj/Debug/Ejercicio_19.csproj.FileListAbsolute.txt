@@ -1,0 +1,7 @@
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.exe.config
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.exe
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.pdb
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.exe
+F:\Visual Code Projects\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.pdb
