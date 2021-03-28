@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Billetes;
 
-
 //a.Se debe lograr que los objetos de estas clases se puedan sumar, restar y comparar entre sí con total normalidad como si fueran tipos numéricos, teniendo presente que 1 Euro equivale a 1,08 dólares y 1 dólar equivale a 66 pesos.
 //b.El atributo cotizRespectoDolar y el método GetCotizacion son estáticos.
 //c.Sobrecargar los operadores explicit y/o implicit para lograr compatibilidad entre los distintos tipos de datos.

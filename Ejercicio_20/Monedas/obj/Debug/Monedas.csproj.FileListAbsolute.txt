@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Ejercicio_20\Monedas\bin\Debug\Monedas.dll
+F:\Visual Code Projects\Ejercicio_20\Monedas\bin\Debug\Monedas.pdb
+F:\Visual Code Projects\Ejercicio_20\Monedas\obj\Debug\Monedas.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_20\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_20\Monedas\obj\Debug\Monedas.dll
+F:\Visual Code Projects\Ejercicio_20\Monedas\obj\Debug\Monedas.pdb
