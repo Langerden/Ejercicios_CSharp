@@ -1,0 +1,7 @@
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\bin\Ejercicio4.exe.config
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\bin\Ejercicio4.exe
+F:\Visual Code Projects\Ejercicio4\Ejercicio4\bin\Ejercicio4.pdb
