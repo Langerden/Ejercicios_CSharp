@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Ejercicio_12\Ejercicio_12\bin\Debug\Ejercicio_12.exe.config
+F:\Visual Code Projects\Ejercicio_12\Ejercicio_12\bin\Debug\Ejercicio_12.exe
+F:\Visual Code Projects\Ejercicio_12\Ejercicio_12\bin\Debug\Ejercicio_12.pdb
+F:\Visual Code Projects\Ejercicio_12\Ejercicio_12\obj\Debug\Ejercicio_12.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_12\Ejercicio_12\obj\Debug\Ejercicio_12.exe
+F:\Visual Code Projects\Ejercicio_12\Ejercicio_12\obj\Debug\Ejercicio_12.pdb
