@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\bin\Debug\Ejercicio_Clase3.exe.config
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\bin\Debug\Ejercicio_Clase3.exe
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\bin\Debug\Ejercicio_Clase3.pdb
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\bin\Debug\Biblioteca.dll
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\bin\Debug\Biblioteca.pdb
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\obj\Debug\Ejercicio_Clase3.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\obj\Debug\Ejercicio_Clase3.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\obj\Debug\Ejercicio_Clase3.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\obj\Debug\Ejercicio_Clase3.exe
+F:\Visual Code Projects\Ejercicio_Clase3\Ejercicio_Clase3\obj\Debug\Ejercicio_Clase3.pdb

@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Ejercicio_Clase3\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Visual Code Projects\Ejercicio_Clase3\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Visual Code Projects\Ejercicio_Clase3\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_Clase3\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_Clase3\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Visual Code Projects\Ejercicio_Clase3\Biblioteca\obj\Debug\Biblioteca.pdb
