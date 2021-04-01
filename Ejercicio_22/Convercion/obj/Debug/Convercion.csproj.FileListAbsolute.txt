@@ -1,0 +1,5 @@
+F:\Visual Code Projects\Ejercicio_22\Convercion\bin\Debug\Convercion.dll
+F:\Visual Code Projects\Ejercicio_22\Convercion\bin\Debug\Convercion.pdb
+F:\Visual Code Projects\Ejercicio_22\Convercion\obj\Debug\Convercion.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_22\Convercion\obj\Debug\Convercion.dll
+F:\Visual Code Projects\Ejercicio_22\Convercion\obj\Debug\Convercion.pdb

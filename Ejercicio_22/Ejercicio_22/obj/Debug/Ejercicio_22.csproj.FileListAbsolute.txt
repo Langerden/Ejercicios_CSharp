@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\bin\Debug\Ejercicio_22.exe.config
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\bin\Debug\Ejercicio_22.exe
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\bin\Debug\Ejercicio_22.pdb
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\bin\Debug\Convercion.dll
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\bin\Debug\Convercion.pdb
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\obj\Debug\Ejercicio_22.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\obj\Debug\Ejercicio_22.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\obj\Debug\Ejercicio_22.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\obj\Debug\Ejercicio_22.exe
+F:\Visual Code Projects\Ejercicio_22\Ejercicio_22\obj\Debug\Ejercicio_22.pdb
