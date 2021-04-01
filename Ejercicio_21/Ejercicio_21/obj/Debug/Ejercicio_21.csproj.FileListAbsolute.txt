@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe.config
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.exe
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\bin\Debug\Ejercicio_21.pdb
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\bin\Debug\Temperaturas.dll
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\bin\Debug\Temperaturas.pdb
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.exe
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Debug\Ejercicio_21.pdb

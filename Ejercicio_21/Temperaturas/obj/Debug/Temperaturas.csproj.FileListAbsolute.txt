@@ -1,0 +1,5 @@
+F:\Visual Code Projects\Ejercicio_21\Temperaturas\bin\Debug\Temperaturas.dll
+F:\Visual Code Projects\Ejercicio_21\Temperaturas\bin\Debug\Temperaturas.pdb
+F:\Visual Code Projects\Ejercicio_21\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_21\Temperaturas\obj\Debug\Temperaturas.dll
+F:\Visual Code Projects\Ejercicio_21\Temperaturas\obj\Debug\Temperaturas.pdb

@@ -1,0 +1,2 @@
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Release\Ejercicio_21.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_21\Ejercicio_21\obj\Release\Ejercicio_21.csproj.CoreCompileInputs.cache
