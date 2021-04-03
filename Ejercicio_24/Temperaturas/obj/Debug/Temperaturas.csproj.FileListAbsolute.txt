@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Ejercicio_24\Temperaturas\bin\Debug\Temperaturas.dll
+F:\Visual Code Projects\Ejercicio_24\Temperaturas\bin\Debug\Temperaturas.pdb
+F:\Visual Code Projects\Ejercicio_24\Temperaturas\obj\Debug\Temperaturas.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_24\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_24\Temperaturas\obj\Debug\Temperaturas.dll
+F:\Visual Code Projects\Ejercicio_24\Temperaturas\obj\Debug\Temperaturas.pdb
