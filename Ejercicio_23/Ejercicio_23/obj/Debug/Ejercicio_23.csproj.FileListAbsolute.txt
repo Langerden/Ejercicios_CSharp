@@ -1,0 +1,13 @@
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\bin\Debug\Ejercicio_23.exe.config
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\bin\Debug\Ejercicio_23.exe
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\bin\Debug\Ejercicio_23.pdb
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.Properties.Resources.resources
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.GenerateResource.cache
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.exe
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.pdb
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.ConversorForm.resources
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\bin\Debug\Monedas.dll
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\bin\Debug\Monedas.pdb
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.CopyComplete
