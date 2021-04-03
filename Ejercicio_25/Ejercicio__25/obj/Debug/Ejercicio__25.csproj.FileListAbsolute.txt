@@ -11,3 +11,16 @@ F:\Visual Code Projects\Conversor Numerico\Ejercicio__25\obj\Debug\Ejercicio__25
 F:\Visual Code Projects\Conversor Numerico\Ejercicio__25\bin\Debug\Conversor.dll
 F:\Visual Code Projects\Conversor Numerico\Ejercicio__25\bin\Debug\Conversor.pdb
 F:\Visual Code Projects\Conversor Numerico\Ejercicio__25\obj\Debug\Ejercicio__25.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\bin\Debug\Ejercicio_25.exe.config
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\bin\Debug\Ejercicio_25.exe
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\bin\Debug\Ejercicio_25.pdb
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\bin\Debug\Conversores.dll
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\bin\Debug\Conversores.pdb
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio__25.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio__25.ConversorForm.resources
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio_25.Properties.Resources.resources
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio__25.csproj.GenerateResource.cache
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio__25.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio__25.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio_25.exe
+F:\Visual Code Projects\Ejercicio_25\Ejercicio__25\obj\Debug\Ejercicio_25.pdb

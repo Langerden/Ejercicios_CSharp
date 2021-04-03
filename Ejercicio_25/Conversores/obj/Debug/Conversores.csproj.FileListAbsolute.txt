@@ -1,0 +1,5 @@
+F:\Visual Code Projects\Ejercicio_25\Conversores\bin\Debug\Conversores.dll
+F:\Visual Code Projects\Ejercicio_25\Conversores\bin\Debug\Conversores.pdb
+F:\Visual Code Projects\Ejercicio_25\Conversores\obj\Debug\Conversores.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_25\Conversores\obj\Debug\Conversores.dll
+F:\Visual Code Projects\Ejercicio_25\Conversores\obj\Debug\Conversores.pdb
