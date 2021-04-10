@@ -1,0 +1,6 @@
+F:\Visual Code Projects\32\32\bin\Debug\32.exe.config
+F:\Visual Code Projects\32\32\bin\Debug\32.exe
+F:\Visual Code Projects\32\32\bin\Debug\32.pdb
+F:\Visual Code Projects\32\32\obj\Debug\Ejercicio_32.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\32\32\obj\Debug\32.exe
+F:\Visual Code Projects\32\32\obj\Debug\32.pdb
