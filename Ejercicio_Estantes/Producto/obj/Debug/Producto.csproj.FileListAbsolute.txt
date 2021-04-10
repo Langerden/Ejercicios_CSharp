@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Repaso\Producto\bin\Debug\Producto.exe.config
+F:\Visual Code Projects\Repaso\Producto\bin\Debug\Producto.exe
+F:\Visual Code Projects\Repaso\Producto\bin\Debug\Producto.pdb
+F:\Visual Code Projects\Repaso\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Repaso\Producto\obj\Debug\Producto.exe
+F:\Visual Code Projects\Repaso\Producto\obj\Debug\Producto.pdb
