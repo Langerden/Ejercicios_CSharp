@@ -1,0 +1,14 @@
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\bin\Debug\FormCentralita.exe.config
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\bin\Debug\FormCentralita.exe
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\bin\Debug\FormCentralita.pdb
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\bin\Debug\Ejercicio_40.exe
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\bin\Debug\Ejercicio_40.pdb
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\bin\Debug\Ejercicio_40.exe.config
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.FormMenu.resources
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.Properties.Resources.resources
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.exe
+F:\Visual Code Projects\Ejercicio_40\FormCentralita\obj\Debug\FormCentralita.pdb
