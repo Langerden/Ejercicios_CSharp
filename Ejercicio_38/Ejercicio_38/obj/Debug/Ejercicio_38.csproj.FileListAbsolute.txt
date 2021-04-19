@@ -1,0 +1,7 @@
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.exe.config
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.exe
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\bin\Debug\Ejercicio_38.pdb
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.exe
+F:\Visual Code Projects\Ejercicio_38\Ejercicio_38\obj\Debug\Ejercicio_38.pdb
