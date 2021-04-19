@@ -5,3 +5,10 @@ C:\Users\Usuario\source\repos\Ejercicio1\bin\Release\Ejercicio1.pdb
 C:\Users\Usuario\source\repos\Ejercicio1\obj\Release\Ejercicio1.exe
 C:\Users\Usuario\source\repos\Ejercicio1\obj\Release\Ejercicio1.pdb
 C:\Users\Usuario\source\repos\Ejercicio1\obj\Release\Ejercicio1.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio1\bin\Release\Ejercicio1.exe.config
+F:\Visual Code Projects\Ejercicio1\bin\Release\Ejercicio1.exe
+F:\Visual Code Projects\Ejercicio1\bin\Release\Ejercicio1.pdb
+F:\Visual Code Projects\Ejercicio1\obj\Release\Ejercicio1.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio1\obj\Release\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio1\obj\Release\Ejercicio1.exe
+F:\Visual Code Projects\Ejercicio1\obj\Release\Ejercicio1.pdb

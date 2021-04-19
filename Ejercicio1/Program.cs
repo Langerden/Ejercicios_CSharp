@@ -11,13 +11,13 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
-            int numero=0;
+            int numero = 0;
             int min = int.MaxValue;
             int max = int.MinValue;
             int count;
             int sum = 0;
 
-            for(count = 0; count < 5; count++)
+            for (count = 0; count < 5; count++)
             {
                 Console.WriteLine("Ingrese un numero por consola: ");
                 if (int.TryParse(Console.ReadLine(), out numero))
@@ -29,8 +29,8 @@ namespace Ejercicio1
                     sum += numero;
                 }
             }
-        Console.WriteLine("El numero maximo es {0}, el minimo es {1} y el promedio es {2}",max,min,(sum/count));
-        Console.ReadKey();
+            Console.WriteLine("El numero maximo es {0}, el minimo es {1} y el promedio es {2}", max, min, (sum / count));
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.exe.config
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.exe
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\bin\Debug\Ejercicio_28.pdb
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.FormContador.resources
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.Properties.Resources.resources
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.GenerateResource.cache
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.exe
+F:\Visual Code Projects\Ejercicio_28\Ejercicio_28\obj\Debug\Ejercicio_28.pdb

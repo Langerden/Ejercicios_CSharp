@@ -1,0 +1,5 @@
+F:\Visual Code Projects\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+F:\Visual Code Projects\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\Visual Code Projects\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+F:\Visual Code Projects\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

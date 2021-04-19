@@ -5,3 +5,10 @@ C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojA
 C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
 C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+F:\Visual Code Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

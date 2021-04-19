@@ -1,0 +1,10 @@
+F:\Visual Code Projects\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\CentralTelefonica\Test\bin\Debug\Test.exe.config
+F:\Visual Code Projects\CentralTelefonica\Test\bin\Debug\Test.exe
+F:\Visual Code Projects\CentralTelefonica\Test\bin\Debug\Test.pdb
+F:\Visual Code Projects\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.dll
+F:\Visual Code Projects\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.pdb
+F:\Visual Code Projects\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Visual Code Projects\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Visual Code Projects\CentralTelefonica\Test\obj\Debug\Test.exe
+F:\Visual Code Projects\CentralTelefonica\Test\obj\Debug\Test.pdb

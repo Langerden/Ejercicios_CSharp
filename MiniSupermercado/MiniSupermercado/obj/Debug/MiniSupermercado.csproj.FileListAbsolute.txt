@@ -1,0 +1,11 @@
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\bin\Debug\MiniSupermercado.exe.config
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\bin\Debug\MiniSupermercado.exe
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\bin\Debug\MiniSupermercado.pdb
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.csprojAssemblyReference.cache
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.Form1.resources
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.Properties.Resources.resources
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.csproj.GenerateResource.cache
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.exe
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.pdb
+F:\Visual Code Projects\MiniSupermercado\MiniSupermercado\obj\Debug\MiniSupermercado.AltaUsuario.resources
