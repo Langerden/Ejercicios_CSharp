@@ -1,0 +1,6 @@
+F:\Visual Code Projects\CalculadoraDeFormas\Figuras\bin\Debug\Figuras.dll
+F:\Visual Code Projects\CalculadoraDeFormas\Figuras\bin\Debug\Figuras.pdb
+F:\Visual Code Projects\CalculadoraDeFormas\Figuras\obj\Debug\Figuras.csprojAssemblyReference.cache
+F:\Visual Code Projects\CalculadoraDeFormas\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\CalculadoraDeFormas\Figuras\obj\Debug\Figuras.dll
+F:\Visual Code Projects\CalculadoraDeFormas\Figuras\obj\Debug\Figuras.pdb

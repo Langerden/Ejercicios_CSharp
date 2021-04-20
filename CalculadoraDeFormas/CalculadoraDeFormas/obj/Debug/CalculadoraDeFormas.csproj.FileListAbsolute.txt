@@ -1,0 +1,10 @@
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe.config
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.pdb
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Figuras.dll
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Figuras.pdb
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csprojAssemblyReference.cache
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CopyComplete
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.exe
+F:\Visual Code Projects\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.pdb
