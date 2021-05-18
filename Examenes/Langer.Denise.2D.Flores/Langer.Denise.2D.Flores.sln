@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flores", "Flores\Flores.csproj", "{EDF10686-17EC-4588-B946-F8693CB5BC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmPrincipal", "FrmPrincipal\FrmPrincipal.csproj", "{79C82310-D9A6-4EEF-943F-1DD2F493FB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF10686-17EC-4588-B946-F8693CB5BC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF10686-17EC-4588-B946-F8693CB5BC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF10686-17EC-4588-B946-F8693CB5BC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF10686-17EC-4588-B946-F8693CB5BC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C82310-D9A6-4EEF-943F-1DD2F493FB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C82310-D9A6-4EEF-943F-1DD2F493FB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C82310-D9A6-4EEF-943F-1DD2F493FB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C82310-D9A6-4EEF-943F-1DD2F493FB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D999AA4E-64E6-4130-869F-E55FDC852741}
+	EndGlobalSection
+EndGlobal

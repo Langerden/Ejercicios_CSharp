@@ -1,0 +1,5 @@
+F:\Visual Code Projects\Biblioteca\Barras\obj\Debug\Barras.csprojAssemblyReference.cache
+F:\Visual Code Projects\Biblioteca\Barras\obj\Debug\ControlesUsuario.FormBarra.resources
+F:\Visual Code Projects\Biblioteca\Barras\obj\Debug\Barras.Properties.Resources.resources
+F:\Visual Code Projects\Biblioteca\Barras\obj\Debug\Barras.csproj.GenerateResource.cache
+F:\Visual Code Projects\Biblioteca\Barras\obj\Debug\Barras.csproj.CoreCompileInputs.cache

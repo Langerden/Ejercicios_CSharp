@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\bin\Debug\VistaConsola.exe.config
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\bin\Debug\VistaConsola.exe
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\bin\Debug\VistaConsola.pdb
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\obj\Debug\VistaConsola.exe
+F:\Visual Code Projects\Langer.Denise.2018\VistaConsola\obj\Debug\VistaConsola.pdb

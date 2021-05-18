@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Ejercicio_48\Ejercicio_48\bin\Debug\Ejercicio_48.dll
+F:\Visual Code Projects\Ejercicio_48\Ejercicio_48\bin\Debug\Ejercicio_48.pdb
+F:\Visual Code Projects\Ejercicio_48\Ejercicio_48\obj\Debug\Ejercicio_48.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_48\Ejercicio_48\obj\Debug\Ejercicio_48.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_48\Ejercicio_48\obj\Debug\Ejercicio_48.dll
+F:\Visual Code Projects\Ejercicio_48\Ejercicio_48\obj\Debug\Ejercicio_48.pdb

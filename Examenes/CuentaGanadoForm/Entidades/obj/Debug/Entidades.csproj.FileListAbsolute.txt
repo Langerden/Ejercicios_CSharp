@@ -1,0 +1,5 @@
+F:\Visual Code Projects\CuentaGanadoForm\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\CuentaGanadoForm\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\CuentaGanadoForm\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\CuentaGanadoForm\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\CuentaGanadoForm\Entidades\obj\Debug\Entidades.pdb

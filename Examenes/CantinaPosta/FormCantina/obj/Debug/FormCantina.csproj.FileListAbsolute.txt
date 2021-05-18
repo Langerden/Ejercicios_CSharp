@@ -1,0 +1,15 @@
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\FormCantina.exe.config
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\FormCantina.exe
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\FormCantina.pdb
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\ControlesUsuario.dll
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Biblioteca\FormCantina\bin\Debug\ControlesUsuario.pdb
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.csprojAssemblyReference.cache
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.Form1.resources
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.Properties.Resources.resources
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.csproj.GenerateResource.cache
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.csproj.CopyComplete
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.exe
+F:\Visual Code Projects\Biblioteca\FormCantina\obj\Debug\FormCantina.pdb

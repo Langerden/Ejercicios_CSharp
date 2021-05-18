@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\obj\Debug\Ejercicio_43.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\obj\Debug\Ejercicio_43.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\bin\Debug\Ejercicio_43.exe.config
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\bin\Debug\Ejercicio_43.exe
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\bin\Debug\Ejercicio_43.pdb
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\obj\Debug\Ejercicio_43.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\obj\Debug\Ejercicio_43.exe
+F:\Visual Code Projects\Ejercicio_43\Ejercicio_43\obj\Debug\Ejercicio_43.pdb

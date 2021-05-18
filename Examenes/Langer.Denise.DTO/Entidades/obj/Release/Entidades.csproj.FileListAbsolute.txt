@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Langer.Denise\Entidades\bin\Release\Entidades.dll
+F:\Visual Code Projects\Langer.Denise\Entidades\bin\Release\Entidades.pdb
+F:\Visual Code Projects\Langer.Denise\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+F:\Visual Code Projects\Langer.Denise\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Langer.Denise\Entidades\obj\Release\Entidades.dll
+F:\Visual Code Projects\Langer.Denise\Entidades\obj\Release\Entidades.pdb

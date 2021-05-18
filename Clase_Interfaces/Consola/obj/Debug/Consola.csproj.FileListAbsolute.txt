@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Clase_Interfaces\Consola\bin\Debug\Consola.exe.config
+F:\Visual Code Projects\Clase_Interfaces\Consola\bin\Debug\Consola.exe
+F:\Visual Code Projects\Clase_Interfaces\Consola\bin\Debug\Consola.pdb
+F:\Visual Code Projects\Clase_Interfaces\Consola\bin\Debug\Clase_Interfaces.dll
+F:\Visual Code Projects\Clase_Interfaces\Consola\bin\Debug\Clase_Interfaces.pdb
+F:\Visual Code Projects\Clase_Interfaces\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+F:\Visual Code Projects\Clase_Interfaces\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Clase_Interfaces\Consola\obj\Debug\Consola.csproj.CopyComplete
+F:\Visual Code Projects\Clase_Interfaces\Consola\obj\Debug\Consola.exe
+F:\Visual Code Projects\Clase_Interfaces\Consola\obj\Debug\Consola.pdb

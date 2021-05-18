@@ -1,0 +1,13 @@
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\bin\Debug\Flores.dll
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\bin\Debug\Flores.pdb
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.FormPpal.resources
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\FrmPrincipal\obj\Debug\FrmPrincipal.pdb

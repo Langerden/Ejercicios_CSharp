@@ -1,0 +1,16 @@
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\VistaForm.exe.config
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\VistaForm.exe
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\VistaForm.pdb
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\VistaConsola.exe
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\VistaConsola.pdb
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\bin\Debug\VistaConsola.exe.config
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.FormPpal.resources
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.exe
+F:\Visual Code Projects\Langer.Denise.2018\VistaForm\obj\Debug\VistaForm.pdb

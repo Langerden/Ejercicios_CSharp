@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_Interfaces", "Clase_Interfaces\Clase_Interfaces.csproj", "{029A4638-66AB-4D5F-BD46-32AEF5294ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{FA17DCC9-9851-4998-A427-D8BB46FA6EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029A4638-66AB-4D5F-BD46-32AEF5294ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029A4638-66AB-4D5F-BD46-32AEF5294ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029A4638-66AB-4D5F-BD46-32AEF5294ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029A4638-66AB-4D5F-BD46-32AEF5294ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA17DCC9-9851-4998-A427-D8BB46FA6EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA17DCC9-9851-4998-A427-D8BB46FA6EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA17DCC9-9851-4998-A427-D8BB46FA6EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA17DCC9-9851-4998-A427-D8BB46FA6EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800B6F57-19FA-4EDC-8CB8-534455B9A2B7}
+	EndGlobalSection
+EndGlobal

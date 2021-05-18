@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_47.1\Consola\bin\Debug\Consola.exe.config
+F:\Visual Code Projects\Ejercicio_47.1\Consola\bin\Debug\Consola.exe
+F:\Visual Code Projects\Ejercicio_47.1\Consola\bin\Debug\Consola.pdb
+F:\Visual Code Projects\Ejercicio_47.1\Consola\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Ejercicio_47.1\Consola\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Ejercicio_47.1\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_47.1\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_47.1\Consola\obj\Debug\Consola.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_47.1\Consola\obj\Debug\Consola.exe
+F:\Visual Code Projects\Ejercicio_47.1\Consola\obj\Debug\Consola.pdb

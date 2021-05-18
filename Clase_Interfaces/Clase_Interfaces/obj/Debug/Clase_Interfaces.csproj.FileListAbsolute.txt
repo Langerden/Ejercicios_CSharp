@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Clase_Interfaces\Clase_Interfaces\bin\Debug\Clase_Interfaces.dll
+F:\Visual Code Projects\Clase_Interfaces\Clase_Interfaces\bin\Debug\Clase_Interfaces.pdb
+F:\Visual Code Projects\Clase_Interfaces\Clase_Interfaces\obj\Debug\Clase_Interfaces.csprojAssemblyReference.cache
+F:\Visual Code Projects\Clase_Interfaces\Clase_Interfaces\obj\Debug\Clase_Interfaces.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Clase_Interfaces\Clase_Interfaces\obj\Debug\Clase_Interfaces.dll
+F:\Visual Code Projects\Clase_Interfaces\Clase_Interfaces\obj\Debug\Clase_Interfaces.pdb

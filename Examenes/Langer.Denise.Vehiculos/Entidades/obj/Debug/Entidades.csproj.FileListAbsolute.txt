@@ -1,0 +1,11 @@
+F:\Visual Code Projects\Langer.Denise.Vehiculos\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Langer.Denise.Vehiculos\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.pdb
+F:\Visual Code Projects\Examenes\Langer.Denise.Vehiculos\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Examenes\Langer.Denise.Vehiculos\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Examenes\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Visual Code Projects\Examenes\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Examenes\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\Examenes\Langer.Denise.Vehiculos\Entidades\obj\Debug\Entidades.pdb

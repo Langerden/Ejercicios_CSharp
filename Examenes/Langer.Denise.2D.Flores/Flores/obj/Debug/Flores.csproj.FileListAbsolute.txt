@@ -1,0 +1,5 @@
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\Flores\bin\Debug\Flores.dll
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\Flores\bin\Debug\Flores.pdb
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\Flores\obj\Debug\Flores.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\Flores\obj\Debug\Flores.dll
+F:\Visual Code Projects\Examenes\Langer.Denise.2D.Flores\Flores\obj\Debug\Flores.pdb

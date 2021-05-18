@@ -1,0 +1,13 @@
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe.config
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.pdb
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\bin\Debug\Entidades.dll
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csprojAssemblyReference.cache
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.FormContador.resources
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Properties.Resources.resources
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.GenerateResource.cache
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CopyComplete
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
+F:\Visual Code Projects\CuentaGanadoForm\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb
