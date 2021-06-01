@@ -1,0 +1,11 @@
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.pdb

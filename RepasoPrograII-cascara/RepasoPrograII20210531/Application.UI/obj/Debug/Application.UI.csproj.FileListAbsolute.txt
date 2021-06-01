@@ -1,0 +1,165 @@
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Models.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Common.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Models.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Common.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCostumerVisualizer.resources
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCostumer.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Models.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Common.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Models.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Common.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCostumer.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCostumerVisualizer.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Models.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Common.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Models.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\bin\Debug\Application.Common.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCostumer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCostumerVisualizer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCostumer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCostumerVisualizer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCostumer.resources
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCostumerVisualizer.resources
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomer.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerUpdate.resources
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerVisualizer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.dll
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.dll
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.dll
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerUpdate.resources
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerVisualizer.resources
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe.config
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.exe
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\WindowsFormsApp1.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Common.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Models.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\bin\Debug\Application.Files.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csprojAssemblyReference.cache
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomer.resources
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerUpdate.resources
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerVisualizer.resources
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.GenerateResource.cache
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.exe
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.pdb

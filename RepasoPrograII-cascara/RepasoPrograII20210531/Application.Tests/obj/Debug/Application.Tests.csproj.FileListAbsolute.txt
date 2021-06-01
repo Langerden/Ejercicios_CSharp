@@ -1,0 +1,125 @@
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CopyComplete
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CopyComplete
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CopyComplete
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CopyComplete
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Common.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Models.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Files.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Common.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Models.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Files.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csprojAssemblyReference.cache
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.pdb
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Common.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Files.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Models.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Common.pdb
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Files.pdb
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Models.pdb
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.pdb
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csprojAssemblyReference.cache
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CopyComplete
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.dll
+C:\Users\Esteban\Downloads\RepasoPrograII-master\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Tests.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Common.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Files.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Models.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Common.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Files.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.Models.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Application.pdb
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csprojAssemblyReference.cache
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.csproj.CopyComplete
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.dll
+F:\Visual Code Projects\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Tests\obj\Debug\Application.Tests.pdb
