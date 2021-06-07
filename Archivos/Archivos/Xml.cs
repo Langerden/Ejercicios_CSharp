@@ -17,13 +17,15 @@ namespace Archivos
 
             try
             {
-                if (pathArchivo != null && (!(Directory.Exists(pathArchivo))))
+                if (pathArchivo != null && (Directory.Exists(pathArchivo)))
+                {
                     using (XmlTextWriter auxWriter = new XmlTextWriter(pathArchivo, Encoding.UTF8))
                     {
                         XmlSerializer nuevoXml = new XmlSerializer(typeof(T));
                         nuevoXml.Serialize(auxWriter, datos);
                         retorno = true;
                     }
+                }
             }
             catch (Exception)
             {
