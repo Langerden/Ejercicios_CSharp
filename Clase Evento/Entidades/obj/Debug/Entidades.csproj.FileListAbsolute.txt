@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucas\source\repos\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucas\source\repos\Entidades\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucas\source\repos\Entidades\Entidades\obj\Debug\Entidades.pdb
+F:\Visual Code Projects\Clase Evento\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Clase Evento\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Clase Evento\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Visual Code Projects\Clase Evento\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Clase Evento\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\Clase Evento\Entidades\obj\Debug\Entidades.pdb
