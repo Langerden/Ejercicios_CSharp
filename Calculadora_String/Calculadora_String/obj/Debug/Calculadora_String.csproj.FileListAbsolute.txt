@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Calculadora_String\Calculadora_String\bin\Debug\Calculadora_String.dll
+F:\Visual Code Projects\Calculadora_String\Calculadora_String\bin\Debug\Calculadora_String.pdb
+F:\Visual Code Projects\Calculadora_String\Calculadora_String\obj\Debug\Calculadora_String.csprojAssemblyReference.cache
+F:\Visual Code Projects\Calculadora_String\Calculadora_String\obj\Debug\Calculadora_String.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Calculadora_String\Calculadora_String\obj\Debug\Calculadora_String.dll
+F:\Visual Code Projects\Calculadora_String\Calculadora_String\obj\Debug\Calculadora_String.pdb
