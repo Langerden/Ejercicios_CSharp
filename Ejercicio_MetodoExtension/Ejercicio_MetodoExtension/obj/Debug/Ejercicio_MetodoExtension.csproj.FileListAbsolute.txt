@@ -1,0 +1,10 @@
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\obj\Debug\Ejercicio_MetodoExtension.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\obj\Debug\Ejercicio_MetodoExtension.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\bin\Debug\Ejercicio_MetodoExtension.exe.config
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\bin\Debug\Ejercicio_MetodoExtension.exe
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\bin\Debug\Ejercicio_MetodoExtension.pdb
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\bin\Debug\Biblioteca_Extension.dll
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\bin\Debug\Biblioteca_Extension.pdb
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\obj\Debug\Ejercicio_MetodoExtension.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\obj\Debug\Ejercicio_MetodoExtension.exe
+F:\Visual Code Projects\Ejercicio_MetodoExtension\Ejercicio_MetodoExtension\obj\Debug\Ejercicio_MetodoExtension.pdb
