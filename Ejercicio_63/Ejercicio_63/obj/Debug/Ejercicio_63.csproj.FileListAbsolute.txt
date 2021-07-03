@@ -1,0 +1,13 @@
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\bin\Debug\Ejercicio_63.exe.config
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\bin\Debug\Ejercicio_63.exe
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\bin\Debug\Ejercicio_63.pdb
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.Form1.resources
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.Properties.Resources.resources
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.csproj.GenerateResource.cache
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.exe
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.pdb
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\bin\Debug\Ejercicio_67.dll
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\bin\Debug\Ejercicio_67.pdb
+F:\Visual Code Projects\Ejercicio_63\Ejercicio_63\obj\Debug\Ejercicio_63.csproj.CopyComplete
