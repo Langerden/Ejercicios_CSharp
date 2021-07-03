@@ -1,0 +1,13 @@
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\bin\Debug\Ejercicio_68.exe.config
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\bin\Debug\Ejercicio_68.exe
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\bin\Debug\Ejercicio_68.pdb
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.FormPersona.resources
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.Properties.Resources.resources
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.csproj.GenerateResource.cache
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.csproj.CopyComplete
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.exe
+F:\Visual Code Projects\Ejercicio_68\Ejercicio_68\obj\Debug\Ejercicio_68.pdb
