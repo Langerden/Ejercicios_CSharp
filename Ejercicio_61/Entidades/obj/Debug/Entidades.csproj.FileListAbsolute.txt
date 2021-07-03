@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Ejercicio_61\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Ejercicio_61\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Ejercicio_61\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Visual Code Projects\Ejercicio_61\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Ejercicio_61\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\Ejercicio_61\Entidades\obj\Debug\Entidades.pdb
