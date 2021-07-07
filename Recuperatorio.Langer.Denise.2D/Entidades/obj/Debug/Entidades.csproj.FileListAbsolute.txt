@@ -1,0 +1,6 @@
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\Entidades\obj\Debug\Entidades.pdb

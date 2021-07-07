@@ -1,0 +1,13 @@
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\bin\Debug\FormPpal.exe.config
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\bin\Debug\FormPpal.exe
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\bin\Debug\FormPpal.pdb
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.csproj.AssemblyReference.cache
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.FormPpal.resources
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.Properties.Resources.resources
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.csproj.GenerateResource.cache
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.csproj.CopyComplete
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.exe
+F:\Visual Code Projects\Recuperatorio.Langer.Denise.2D\FormPpal\obj\Debug\FormPpal.pdb
