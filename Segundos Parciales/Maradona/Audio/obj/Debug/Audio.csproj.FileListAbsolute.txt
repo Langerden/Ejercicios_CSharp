@@ -1,0 +1,16 @@
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.pdb
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Interop.WMPLib.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.pdb
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\bin\Debug\Audio.dll
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\bin\Debug\Audio.pdb
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.dll
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Audio\obj\Debug\Audio.pdb

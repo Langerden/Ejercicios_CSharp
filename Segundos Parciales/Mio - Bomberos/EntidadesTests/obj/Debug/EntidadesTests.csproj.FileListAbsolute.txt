@@ -1,0 +1,38 @@
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\EntidadesTests.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\EntidadesTests.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\obj\Debug\EntidadesTests.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\obj\Debug\EntidadesTests.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\obj\Debug\EntidadesTests.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\obj\Debug\EntidadesTests.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\EntidadesTests\obj\Debug\EntidadesTests.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\EntidadesTests.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\EntidadesTests.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\obj\Debug\EntidadesTests.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\obj\Debug\EntidadesTests.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\obj\Debug\EntidadesTests.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\obj\Debug\EntidadesTests.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\EntidadesTests\obj\Debug\EntidadesTests.pdb

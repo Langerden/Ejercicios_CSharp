@@ -1,0 +1,11 @@
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\bin\Debug\EntidadesTests.dll
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\bin\Debug\EntidadesTests.pdb
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\bin\Debug\Entidades.dll
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\bin\Debug\Entidades.pdb
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\obj\Debug\EntidadesTests.csproj.AssemblyReference.cache
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\obj\Debug\EntidadesTests.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\obj\Debug\EntidadesTests.csproj.CopyComplete
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\obj\Debug\EntidadesTests.dll
+F:\Segundo Parcial\Langer.Denise.2D\EntidadesTests\obj\Debug\EntidadesTests.pdb

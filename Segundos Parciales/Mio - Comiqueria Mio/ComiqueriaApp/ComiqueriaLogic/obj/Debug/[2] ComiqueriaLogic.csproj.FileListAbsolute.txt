@@ -1,0 +1,24 @@
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20190627_2doParcial_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20190627_2doParcial_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20190627_2doParcial_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20190627_2doParcial_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20190627_2doParcial_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20190627_2doParcial_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Comiqueria Mio\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Visual Code Projects\Segundos Parciales\Mio - Comiqueria Mio\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Comiqueria Mio\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.AssemblyReference.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Comiqueria Mio\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Comiqueria Mio\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Visual Code Projects\Segundos Parciales\Mio - Comiqueria Mio\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

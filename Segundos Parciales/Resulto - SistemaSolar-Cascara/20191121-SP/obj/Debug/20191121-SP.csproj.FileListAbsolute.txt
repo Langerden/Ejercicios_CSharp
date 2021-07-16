@@ -1,0 +1,15 @@
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\20191121-SP.exe.config
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\20191121-SP.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\20191121-SP.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\20191121-SP.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\_20191121_SP.FrmSistemaSolar.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\_20191121_SP.Properties.Resources.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\20191121-SP.csproj.GenerateResource.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\20191121-SP.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\20191121-SP.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\20191121-SP.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\obj\Debug\20191121-SP.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\Archivos.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\20191121-SP\bin\Debug\Archivos.pdb

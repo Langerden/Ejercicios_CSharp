@@ -1,0 +1,72 @@
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Formularios.exe
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.exe
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Entidades.dll
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Darth Vader\source\repos\20210706-SP\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.exe
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\obj\Debug\Formularios.pdb
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe.config
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe
+J:\Visual UTN 2019\Examenes\20210706-SP-TODO\20210706-SP - alumno\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.exe
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe.config
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Formularios.exe
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Formularios.pdb
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Entidades.dll
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\bin\Debug\Entidades.pdb
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.exe
+F:\Segundo Parcial\20210706-SP - alumno\Formularios\obj\Debug\Formularios.pdb
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\bin\Debug\Formularios.exe.config
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\bin\Debug\Formularios.exe
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\bin\Debug\Formularios.pdb
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\bin\Debug\Entidades.dll
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\bin\Debug\Entidades.pdb
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.FrmAgregarCliente.resources
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.FrmAtencion.resources
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.FrmSimularAtencion.resources
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.exe
+F:\Segundo Parcial\Langer.Denise.2D\Formularios\obj\Debug\Formularios.pdb

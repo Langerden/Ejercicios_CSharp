@@ -1,0 +1,2 @@
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache

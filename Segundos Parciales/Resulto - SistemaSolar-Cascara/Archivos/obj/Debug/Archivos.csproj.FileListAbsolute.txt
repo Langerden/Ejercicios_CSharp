@@ -1,0 +1,9 @@
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\bin\Debug\Archivos.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.pdb

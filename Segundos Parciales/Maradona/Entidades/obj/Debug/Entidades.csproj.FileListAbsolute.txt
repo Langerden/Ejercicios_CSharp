@@ -1,0 +1,9 @@
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\bin\Debug\Audio.dll
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\bin\Debug\Audio.pdb
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\20201203 - alumno\Entidades\obj\Debug\Entidades.pdb

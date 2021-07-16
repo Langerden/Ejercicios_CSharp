@@ -1,0 +1,24 @@
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Entidades\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Entidades\obj\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Entidades\obj\Debug\Entidades.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Entidades\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Entidades\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Entidades\obj\Debug\Entidades.dll
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Entidades\obj\Debug\Entidades.pdb

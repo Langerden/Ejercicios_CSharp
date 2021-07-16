@@ -1,0 +1,18 @@
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.pdb
+F:\Segundo Parcial\20210706-SP - alumno\Entidades\bin\Debug\Entidades.dll
+F:\Segundo Parcial\20210706-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+F:\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.dll
+F:\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.pdb
+F:\Segundo Parcial\20210706-SP - alumno\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Segundo Parcial\Langer.Denise.2D\Entidades\bin\Debug\Entidades.dll
+F:\Segundo Parcial\Langer.Denise.2D\Entidades\bin\Debug\Entidades.pdb
+F:\Segundo Parcial\Langer.Denise.2D\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Segundo Parcial\Langer.Denise.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial\Langer.Denise.2D\Entidades\obj\Debug\Entidades.dll
+F:\Segundo Parcial\Langer.Denise.2D\Entidades\obj\Debug\Entidades.pdb

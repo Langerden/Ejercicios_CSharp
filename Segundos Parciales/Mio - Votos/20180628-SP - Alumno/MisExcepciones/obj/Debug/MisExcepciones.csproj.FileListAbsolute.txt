@@ -1,0 +1,5 @@
+G:\Segundos Parciales\Hacer - Votos\20180628-SP - Alumno\MisExcepciones\bin\Debug\MisExcepciones.dll
+G:\Segundos Parciales\Hacer - Votos\20180628-SP - Alumno\MisExcepciones\bin\Debug\MisExcepciones.pdb
+G:\Segundos Parciales\Hacer - Votos\20180628-SP - Alumno\MisExcepciones\obj\Debug\MisExcepciones.csproj.CoreCompileInputs.cache
+G:\Segundos Parciales\Hacer - Votos\20180628-SP - Alumno\MisExcepciones\obj\Debug\MisExcepciones.dll
+G:\Segundos Parciales\Hacer - Votos\20180628-SP - Alumno\MisExcepciones\obj\Debug\MisExcepciones.pdb

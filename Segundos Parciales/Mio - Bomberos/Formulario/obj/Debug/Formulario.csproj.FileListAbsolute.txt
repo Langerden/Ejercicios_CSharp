@@ -1,0 +1,65 @@
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\bin\Debug\Formulario.exe.config
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\bin\Debug\Formulario.exe
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\bin\Debug\Formulario.pdb
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\bin\Debug\Entidades.dll
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\bin\Debug\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.exe
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.pdb
+J:\Visual UTN 2019\Examenes\20201119-SP\Formulario\obj\Debug\Formulario.Cuartel.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.Cuartel.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\bin\Debug\Formulario.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\20201119-SP - alumno\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\bin\Debug\Formulario.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.Cuartel.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Bomberos\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\bin\Debug\Formulario.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\bin\Debug\Entidades.dll
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.Cuartel.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.exe
+C:\Users\Denu-Chan\Desktop\Denu\UTN\Labo y Prog 2\Segundos Parciales\Fallas - Bomberos\Formulario\obj\Debug\Formulario.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\bin\Debug\Formulario.exe.config
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\bin\Debug\Formulario.exe
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\bin\Debug\Formulario.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\bin\Debug\Entidades.dll
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\bin\Debug\Entidades.pdb
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.Cuartel.resources
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.exe
+F:\Visual Code Projects\Segundos Parciales\Mio - Bomberos\Formulario\obj\Debug\Formulario.pdb
